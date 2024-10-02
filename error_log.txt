@@ -1,0 +1,70 @@
+2024-04-22  14:43:13  [ZAZNAMEK]   Dodan artikel.
+2024-04-22  14:43:17  [OPOZORILO]  java.lang.NumberFormatException: For input string: "23asd"
+2024-04-22  14:43:20  [ZAZNAMEK]   Spremljen artikel.
+2024-04-22  14:43:24  [ZAZNAMEK]   Spremljen artikel.
+2024-04-22  14:43:26  [ZAZNAMEK]   Izbrisan artikel.
+2024-04-22  14:43:38  [OPOZORILO]  java.lang.NumberFormatException: For input string: "qfbakj"
+2024-04-22  14:43:41  [ZAZNAMEK]   Dodana pošiljka.
+2024-04-22  14:43:44  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-04-22  14:43:46  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-04-22  14:43:48  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-04-22  14:43:50  [ZAZNAMEK]   Odstranjen artikel iz pošiljke.
+2024-04-22  14:43:51  [ZAZNAMEK]   Izbrisana pošiljka.
+2024-04-22  14:44:03  [OPOZORILO]  java.lang.NumberFormatException: For input string: "23dgs"
+2024-04-22  14:44:08  [OPOZORILO]  java.lang.NumberFormatException: For input string: "23dgsasf"
+2024-04-22  14:44:12  [ZAZNAMEK]   Dodan depo.
+2024-04-22  14:44:15  [ZAZNAMEK]   Dodana pošiljka v depo.
+2024-04-22  14:44:17  [ZAZNAMEK]   Dodana pošiljka v depo.
+2024-04-22  14:44:20  [ZAZNAMEK]   Spremljen depo.
+2024-04-22  14:44:23  [ZAZNAMEK]   Dodana pošiljka v depo.
+2024-04-22  14:44:32  [ZAZNAMEK]   Izbrisana pošiljka.
+2024-04-22  14:45:44  [OPOZORILO]  java.time.format.DateTimeParseException: Text 'wqe' could not be parsed at index 0
+2024-04-22  14:45:50  [OPOZORILO]  java.time.format.DateTimeParseException: Text '2020-02-0223' could not be parsed, unparsed text found at index 10
+2024-04-22  14:45:52  [ZAZNAMEK]   Dodana pošiljka.
+2024-04-22  14:45:57  [ZAZNAMEK]   Spremljena pošiljka.
+2024-04-22  14:46:00  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-04-22  14:46:29  [OPOZORILO]  java.lang.NumberFormatException: For input string: "99.19nsa"
+2024-04-22  14:46:33  [ZAZNAMEK]   Dodan artikel.
+2024-04-22  14:47:27  [OPOZORILO]  java.lang.NumberFormatException: For input string: "0-4"
+2024-04-22  14:47:30  [ZAZNAMEK]   Dodan artikel.
+2024-04-22  14:47:45  [ZAZNAMEK]   Spremljen artikel.
+2024-04-22  14:47:58  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-04-22  14:48:02  [ZAZNAMEK]   Odstranjen artikel iz pošiljke.
+2024-04-22  14:48:06  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-04-22  14:48:09  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-04-22  14:48:12  [ZAZNAMEK]   Odstranjen artikel iz pošiljke.
+2024-04-22  14:48:15  [ZAZNAMEK]   Odstranjen artikel iz pošiljke.
+2024-04-22  14:48:17  [ZAZNAMEK]   Odstranjen artikel iz pošiljke.
+2024-04-22  14:48:19  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-04-22  14:48:23  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-04-22  14:48:37  [ZAZNAMEK]   Izbrisana pošiljka.
+2024-04-22  14:48:41  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-04-22  14:48:44  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-04-22  14:48:52  [ZAZNAMEK]   Odstranjen artikel iz pošiljke.
+2024-04-22  14:48:57  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-04-22  14:49:07  [ZAZNAMEK]   Odstranjena pošiljka iz depoja.
+2024-04-22  14:49:09  [ZAZNAMEK]   Dodana pošiljka v depo.
+2024-04-22  14:49:11  [ZAZNAMEK]   Odstranjena pošiljka iz depoja.
+2024-04-22  14:49:13  [ZAZNAMEK]   Odstranjena pošiljka iz depoja.
+2024-04-22  14:49:16  [ZAZNAMEK]   Dodana pošiljka v depo.
+2024-04-22  14:49:18  [ZAZNAMEK]   Odstranjena pošiljka iz depoja.
+2024-04-22  14:49:20  [ZAZNAMEK]   Odstranjena pošiljka iz depoja.
+2024-04-22  14:49:25  [ZAZNAMEK]   Odstranjena pošiljka iz depoja.
+2024-05-08  22:14:53  [OPOZORILO]  java.io.InvalidClassException: si.feri.opj.imamovic.drugi.Depo; local class incompatible: stream classdesc serialVersionUID = 138604934323665302, local class serialVersionUID = -5160771803021248054
+2024-05-08  22:17:12  [OPOZORILO]  java.io.InvalidClassException: si.feri.opj.imamovic.drugi.Depo; local class incompatible: stream classdesc serialVersionUID = 138604934323665302, local class serialVersionUID = -7243801560248429949
+2024-05-08  22:18:31  [OPOZORILO]  java.io.InvalidClassException: si.feri.opj.imamovic.drugi.Depo; local class incompatible: stream classdesc serialVersionUID = 138604934323665302, local class serialVersionUID = -7243801560248429949
+2024-05-08  22:19:44  [OPOZORILO]  java.io.InvalidClassException: si.feri.opj.imamovic.drugi.Depo; local class incompatible: stream classdesc serialVersionUID = 138604934323665302, local class serialVersionUID = -7243801560248429949
+2024-05-08  22:21:05  [OPOZORILO]  java.io.FileNotFoundException: depoji.ser (The system cannot find the file specified)
+2024-05-08  22:21:25  [ZAZNAMEK]   Dodan depo.
+2024-05-08  22:21:42  [ZAZNAMEK]   Dodana pošiljka v depo.
+2024-05-08  22:21:45  [ZAZNAMEK]   Dodana pošiljka v depo.
+2024-05-08  22:21:51  [ZAZNAMEK]   Dodana pošiljka v depo.
+2024-05-08  22:21:52  [ZAZNAMEK]   Dodana pošiljka v depo.
+2024-05-08  22:21:56  [ZAZNAMEK]   Odstranjena pošiljka iz depoja.
+2024-05-08  22:21:59  [ZAZNAMEK]   Odstranjena pošiljka iz depoja.
+2024-05-08  22:22:01  [ZAZNAMEK]   Dodana pošiljka v depo.
+2024-10-02  22:04:37  [ZAZNAMEK]   Dodan artikel.
+2024-10-02  22:04:45  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-10-02  22:04:47  [ZAZNAMEK]   Dodan artikel v pošiljko.
+2024-10-02  22:04:56  [ZAZNAMEK]   Dodana pošiljka v depo.
+2024-10-02  22:04:57  [ZAZNAMEK]   Dodana pošiljka v depo.
